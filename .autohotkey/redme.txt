@@ -1,0 +1,5 @@
+# Running the scripts on startup 
+1. Locate your script: Find your .ahk script file in File Explorer.
+2. Create a shortcut: Right-click the .ahk file and select Create shortcut.
+3. Open the Startup directory: Press Win + R on your keyboard to launch the Run dialog, type shell:startup, and click OK. This instantly opens your user-specific Startup folder.
+4. Move the shortcut: Cut or copy the newly created shortcut file and paste it directly into that Startup folder.

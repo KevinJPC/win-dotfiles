@@ -1,0 +1,38 @@
+[2m2025-01-08T16:36:51.739799Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_behavior.initial_state: unknown variant `fullscreen`, expected `tiling` or `floating` at line 91 column 18
+[2m2026-06-08T00:35:39.603908Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:35:44.585679Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:35:51.353985Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:37:14.765454Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:37:16.945346Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:37:20.396460Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:39:27.629341Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:39:37.773283Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:40:24.509236Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:42:15.045037Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:48:52.505669Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:48:58.522686Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:49:44.114961Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:49:59.842931Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:50:04.979360Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:50:08.340983Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: unrecognized subcommand
+ at line 263 column 15
+[2m2026-06-08T00:52:56.594386Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: invalid type: string "shell-exec \"C:\\Program Files\\WezTerm\\wezterm-gui.exe\"", expected a sequence at line 263 column 15
+[2m2026-06-08T00:53:43.009382Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: invalid type: string "shell-exec C:\\Program Files\\WezTerm\\wezterm-gui.exe", expected a sequence at line 263 column 15
+[2m2026-06-08T00:54:08.113957Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m keybindings[24].commands: invalid type: string "shell-exec weztern", expected a sequence at line 263 column 15
+[2m2026-06-08T00:54:37.172739Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\Program Files\WezTerm\wezterm-gui.exe"'.
+[2m2026-06-08T00:54:45.476772Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Command doesn't have an ending `"`: '"C:\Program Files\WezTerm\wezterm-gui.exe"'.

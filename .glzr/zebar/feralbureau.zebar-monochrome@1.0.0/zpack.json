@@ -1,0 +1,130 @@
+{
+  "$schema": "https://github.com/glzr-io/zebar/raw/v3.0.0/resources/zpack-schema.json",
+  "name": "zebar-monochrome",
+  "version": "1.0.0",
+  "description": "A minimal monochrome topbar for Zebar, forked from zebar-rose-pine-pp",
+  "tags": ["topbar", "monochrome", "minimal"],
+  "previewImages": [
+    "./resources/preview-image-1.png"
+  ],
+  "repositoryUrl": "https://github.com/feralbureau/zebar-monochrome",
+  "widgets": [
+    {
+      "name": "glazewm",
+      "htmlPath": "./dist/glazewm/glazewm.html",
+      "zOrder": "top_most",
+      "shownInTaskbar": false,
+      "focused": false,
+      "resizable": true,
+      "transparent": true,
+      "includeFiles": [
+        "./dist/glazewm/*.html",
+        "./dist/glazewm/*.css",
+        "./dist/glazewm/*.js"
+      ],
+      "caching": {
+        "defaultDuration": 604800,
+        "rules": []
+      },
+      "privileges": {
+        "shellCommands": []
+      },
+      "presets": [
+        {
+          "name": "default",
+          "anchor": "top_left",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "width": "100%",
+          "height": "48px",
+          "monitorSelection": {
+            "type": "all"
+          },
+          "dockToEdge": {
+            "enabled": false,
+            "edge": null,
+            "windowMargin": "0px"
+          }
+        }
+      ]
+    },
+    {
+      "name": "komorebi",
+      "htmlPath": "./dist/komorebi/komorebi.html",
+      "zOrder": "top_most",
+      "shownInTaskbar": false,
+      "focused": false,
+      "resizable": true,
+      "transparent": true,
+      "includeFiles": [
+        "./dist/komorebi/*.html",
+        "./dist/komorebi/*.css",
+        "./dist/komorebi/*.js"
+      ],
+      "caching": {
+        "defaultDuration": 604800,
+        "rules": []
+      },
+      "privileges": {
+        "shellCommands": []
+      },
+      "presets": [
+        {
+          "name": "default",
+          "anchor": "top_left",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "width": "100%",
+          "height": "48px",
+          "monitorSelection": {
+            "type": "all"
+          },
+          "dockToEdge": {
+            "enabled": false,
+            "edge": null,
+            "windowMargin": "0px"
+          }
+        }
+      ]
+    },
+    {
+      "name": "vanilla",
+      "htmlPath": "./dist/vanilla/vanilla.html",
+      "zOrder": "top_most",
+      "shownInTaskbar": false,
+      "focused": false,
+      "resizable": true,
+      "transparent": true,
+      "includeFiles": [
+        "./dist/vanilla/*.html",
+        "./dist/vanilla/*.css",
+        "./dist/vanilla/*.js"
+      ],
+      "caching": {
+        "defaultDuration": 604800,
+        "rules": []
+      },
+      "privileges": {
+        "shellCommands": []
+      },
+      "presets": [
+        {
+          "name": "default",
+          "anchor": "top_left",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "width": "100%",
+          "height": "48px",
+          "monitorSelection": {
+            "type": "all"
+          },
+          "dockToEdge": {
+            "enabled": false,
+            "edge": null,
+            "windowMargin": "0px"
+          }
+        }
+      ]
+    }
+  ]
+}
