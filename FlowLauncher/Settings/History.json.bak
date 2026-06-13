@@ -1,3 +1,176 @@
 {
-  "Items": []
+  "Items": [
+    {
+      "Query": "s taskbar",
+      "ExecutedDateTime": "2026-06-07T20:17:41.4051857-06:00"
+    },
+    {
+      "Query": "sc",
+      "ExecutedDateTime": "2026-06-07T20:18:49.9282201-06:00"
+    },
+    {
+      "Query": "settings",
+      "ExecutedDateTime": "2026-06-07T20:23:00.5242629-06:00"
+    },
+    {
+      "Query": "fl",
+      "ExecutedDateTime": "2026-06-07T20:28:10.8099679-06:00"
+    },
+    {
+      "Query": "flow launcher settings",
+      "ExecutedDateTime": "2026-06-07T20:28:19.4592732-06:00"
+    },
+    {
+      "Query": "youtube",
+      "ExecutedDateTime": "2026-06-07T20:30:29.2003776-06:00"
+    },
+    {
+      "Query": "youtube jesus be the name",
+      "ExecutedDateTime": "2026-06-07T20:30:36.1639304-06:00"
+    },
+    {
+      "Query": "youtube jesus be the name cover",
+      "ExecutedDateTime": "2026-06-07T20:31:03.0695023-06:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-06-07T20:45:40.6981319-06:00"
+    },
+    {
+      "Query": "zebar",
+      "ExecutedDateTime": "2026-06-07T20:50:27.2494112-06:00"
+    },
+    {
+      "Query": "code",
+      "ExecutedDateTime": "2026-06-07T20:51:52.1689351-06:00"
+    },
+    {
+      "Query": "explorer",
+      "ExecutedDateTime": "2026-06-07T20:55:05.8130569-06:00"
+    },
+    {
+      "Query": "zebar",
+      "ExecutedDateTime": "2026-06-07T20:55:35.8386024-06:00"
+    },
+    {
+      "Query": "explorer",
+      "ExecutedDateTime": "2026-06-07T20:58:14.8393877-06:00"
+    },
+    {
+      "Query": "glaze",
+      "ExecutedDateTime": "2026-06-07T21:00:30.465884-06:00"
+    },
+    {
+      "Query": "zebar",
+      "ExecutedDateTime": "2026-06-07T21:01:35.4870708-06:00"
+    },
+    {
+      "Query": "explore",
+      "ExecutedDateTime": "2026-06-07T21:01:45.483494-06:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-06-07T21:18:45.9952421-06:00"
+    },
+    {
+      "Query": "code",
+      "ExecutedDateTime": "2026-06-07T21:29:55.4487492-06:00"
+    },
+    {
+      "Query": "explorer",
+      "ExecutedDateTime": "2026-06-07T21:44:25.2768711-06:00"
+    },
+    {
+      "Query": "file",
+      "ExecutedDateTime": "2026-06-07T21:58:40.5382475-06:00"
+    },
+    {
+      "Query": "run",
+      "ExecutedDateTime": "2026-06-07T22:09:17.12958-06:00"
+    },
+    {
+      "Query": "task",
+      "ExecutedDateTime": "2026-06-07T22:09:53.8096449-06:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-06-07T22:12:53.5594096-06:00"
+    },
+    {
+      "Query": "explore",
+      "ExecutedDateTime": "2026-06-07T22:29:43.8676377-06:00"
+    },
+    {
+      "Query": "terminal",
+      "ExecutedDateTime": "2026-06-07T22:31:04.4512197-06:00"
+    },
+    {
+      "Query": "rest",
+      "ExecutedDateTime": "2026-06-07T22:32:44.9669096-06:00"
+    },
+    {
+      "Query": "zen",
+      "ExecutedDateTime": "2026-06-07T22:35:41.4196221-06:00"
+    },
+    {
+      "Query": "setting",
+      "ExecutedDateTime": "2026-06-07T22:38:44.3905563-06:00"
+    },
+    {
+      "Query": "settings",
+      "ExecutedDateTime": "2026-06-07T22:38:50.8147576-06:00"
+    },
+    {
+      "Query": "ter",
+      "ExecutedDateTime": "2026-06-07T22:40:03.3979611-06:00"
+    },
+    {
+      "Query": "gla",
+      "ExecutedDateTime": "2026-06-07T22:43:53.7017913-06:00"
+    },
+    {
+      "Query": "term",
+      "ExecutedDateTime": "2026-06-07T22:47:36.933275-06:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2026-06-07T22:51:13.0455538-06:00"
+    },
+    {
+      "Query": "zen",
+      "ExecutedDateTime": "2026-06-11T19:56:11.7879216-06:00"
+    },
+    {
+      "Query": "s Blue",
+      "ExecutedDateTime": "2026-06-11T20:12:02.8814167-06:00"
+    },
+    {
+      "Query": "set",
+      "ExecutedDateTime": "2026-06-11T20:13:26.9507005-06:00"
+    },
+    {
+      "Query": "chr",
+      "ExecutedDateTime": "2026-06-11T20:42:16.7335726-06:00"
+    },
+    {
+      "Query": "explore",
+      "ExecutedDateTime": "2026-06-11T20:56:25.1675231-06:00"
+    },
+    {
+      "Query": "task",
+      "ExecutedDateTime": "2026-06-11T21:44:25.1870799-06:00"
+    },
+    {
+      "Query": "term",
+      "ExecutedDateTime": "2026-06-11T21:55:05.594678-06:00"
+    },
+    {
+      "Query": "exp",
+      "ExecutedDateTime": "2026-06-11T22:00:55.7821598-06:00"
+    },
+    {
+      "Query": "shut",
+      "ExecutedDateTime": "2026-06-11T22:19:44.5974181-06:00"
+    }
+  ]
 }
